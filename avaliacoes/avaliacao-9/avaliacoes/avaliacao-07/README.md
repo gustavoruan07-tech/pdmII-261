@@ -1,4 +1,4 @@
-# consumo_api_app
+# meu_widget_app
 
 A new Flutter project.
 
